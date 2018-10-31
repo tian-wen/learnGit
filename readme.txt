@@ -6,3 +6,4 @@ Git has a mutable indexn called stage.
 Git tracks changes.
 this is test.
 creating a new branch is quick AND simple.
+disable Fast forward.
