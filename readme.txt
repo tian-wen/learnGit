@@ -5,4 +5,4 @@ this is the third time that I change this file.
 Git has a mutable indexn called stage.
 Git tracks changes.
 this is test.
-creating a new branch dev. 
+creating a new branch is quick AND simple. 
