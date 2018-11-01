@@ -8,3 +8,4 @@ this is test.
 creating a new branch is quick AND simple.
 disable Fast forward.
 this is a new fixed bug.
+this is a stash test.
